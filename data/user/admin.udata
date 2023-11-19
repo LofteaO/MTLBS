@@ -1,0 +1,20 @@
+
+                        uData[
+                            UUID = cf5f9b0c-03bd-3305-a727-d8530137f051
+                            uPermissions_Level = None
+                            uPassword = 4813494d137e1631bba301d5acab6e7bb7aa74ce1185d456565ef51d737677b2
+                            uCreation_Date = 2023-11-18 17:40:24.588028
+                            uCreation_Time = 17:40:24.588028
+                            uName = Admin
+                            uDeletable = None
+                            uCommands = [
+                                debug
+                            ]
+                        ]
+
+                        collected_info[
+                            logins = None
+                            logedIP = []
+                            time_spent = None
+                            commandLog = []
+                        ]
