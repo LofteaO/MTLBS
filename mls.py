@@ -330,7 +330,7 @@ class build():
         
         # determine wether to execute the code based on the file type
 
-        if extension != ".mt" or ".smt":
+        if extension != ".mt" or ".amt":
             print(f"File type: {extension} is not suported")
         else:
             with open(self.template, "r") as file:
