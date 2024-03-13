@@ -30,7 +30,7 @@ Alternatively download the latest release of mtlbs on github
 > .mt or .amt files are the only supported file format
 
     1. #value of the template variable should be the path to the template file
-    2. template  =  "C:/Users/joshu/Desktop/Modular Login Sysmtem -Kivy/Betas/beta 1.0/test.mt"
+    2. template  =  "C:/Users/current_user/Desktop/template_folder/default.mt"
 
 ***Refrence Code***
 
@@ -38,7 +38,7 @@ Alternatively download the latest release of mtlbs on github
     2. import mtlbs as mtl
     3.
     4. #value of the template variable should be the path to the template file
-    5. template  =  "C:/Users/joshu/Desktop/Modular Login Sysmtem -Kivy/Betas/beta 1.0/test.mt"
+    5. template  =  "C:/Users/current_user/Desktop/template_folder/default.mt"
 
 **Create variables for build, link & pull**
 
@@ -54,7 +54,7 @@ Alternatively download the latest release of mtlbs on github
     2. import mtlbs as mtl
     3. 
     4. #value of the template variable should be the path to the template file
-    5. template  =  "C:/Users/joshu/Desktop/Modular Login Sysmtem -Kivy/Betas/beta 1.0/test.mt"
+    5. template  =  "C:/Users/current_user/Desktop/template_folder/default.mt"
     6. 
     7. link  =  mtl.link
     8. build  =  mtl.build
@@ -71,6 +71,7 @@ Alternatively download the latest release of mtlbs on github
 
 > The link.local represents the choice of storing/retrieving the data locally and if the path is set to **None**
 > The data will be stored and retrieved by default from the AppData directory of the current User
+
 > *Disclaimer** *IT IS **ADVISED** TO SET A PATH AS BY DEFAULT IT WILL ONLY WORK ON WINDOWS AND WILL BREAK ON NON-WINDOWS OPERATING SYSTEMS*
 
 ***Refrence Code***
@@ -79,7 +80,7 @@ Alternatively download the latest release of mtlbs on github
     2.  import mtlbs as mtl
     3. 
     4.  #value of the template variable should be the path to the template file
-    5.  template  =  "C:/Users/joshu/Desktop/Modular Login Sysmtem -Kivy/Betas/beta 1.0/test.mt"
+    5.  template  =  "C:/Users/current_user/Desktop/template_folder/default.mt"
     6. 
     7.  link  =  mtl.link
     8.  build  =  mtl.build
@@ -99,7 +100,7 @@ Alternatively download the latest release of mtlbs on github
     2.  import mtlbs as mtl
     3. 
     4.  #value of the template variable should be the path to the template file
-    5.  template  =  "C:/Users/joshu/Desktop/Modular Login Sysmtem -Kivy/Betas/beta 1.0/test.mt"
+    5.  template  =  "C:/Users/current_user/Desktop/template_folder/default.mt"
     6. 
     7.  link  =  mtl.link
     8.  build  =  mtl.build
@@ -122,7 +123,7 @@ Alternatively download the latest release of mtlbs on github
     2.  import mtlbs as mtl
     3. 
     4.  #value of the template variable should be the path to the template file
-    5.  template  =  "C:/Users/joshu/Desktop/Modular Login Sysmtem -Kivy/Betas/beta 1.0/test.mt"
+    5.  template  =  "C:/Users/current_user/Desktop/template_folder/default.mt"
     6. 
     7.  link  =  mtl.link
     8.  build  =  mtl.build
@@ -148,7 +149,7 @@ Alternatively download the latest release of mtlbs on github
     2.  import mtlbs as mtl
     3. 
     4.  #value of the template variable should be the path to the template file
-    5.  template  =  "C:/Users/joshu/Desktop/Modular Login Sysmtem -Kivy/Betas/beta 1.0/test.mt"
+    5.  template  =  "C:/Users/current_user/Desktop/template_folder/default.mt"
     6. 
     7.  link  =  mtl.link
     8.  build  =  mtl.build
