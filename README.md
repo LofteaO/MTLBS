@@ -1,4 +1,4 @@
-# Modular-Login-System
+# Modular-Template-Login-Based-System
 A modular login system made using Python, a quick way to add a secure login to a Python application
 
 ## Instructions to integrate the login system into an application:
