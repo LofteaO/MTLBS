@@ -1,6 +1,6 @@
 import mls
 
-template = "C:/Users/joshu/Desktop/Modular Login Sysmtem -Kivy/Betas/beta 1.0/test.mt"
+template = "C:/Users/current_user/Desktop/template_folder/default.mt"
 mls.link.local(path=None)
 mls.build(template)
 print("build finished")
