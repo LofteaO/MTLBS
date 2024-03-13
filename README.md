@@ -3,7 +3,7 @@
 
 > ![N|Solid](https://i.ibb.co/sFdhN3f/Add-a-heading-1.png)
 > 
-> Modular Template Login System
+> Modular Template Based Login System
 
 # Getting Started
 ## How to install?
