@@ -87,7 +87,7 @@ Alternatively download the latest release of mtlbs on github
     10.
     11. link.local(path=None)   
 
-***With MDL-Api:***
+***With MDL-Api (Not Yet Working):***
 
 > MDL api is a api made for mtlbs to link mtlbs to a database of your choice.
 > MDL api is the only ***officially*** supported way to link mtlbs to a database without directly changing
